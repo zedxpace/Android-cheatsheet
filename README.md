@@ -4,8 +4,8 @@
 ## https://www.codexpace.ml/2022/02/android-cheatsheet.html
 
 Topics Covered So far in the cheatsheet available in Blog :
-### Create a Toast
-### Set text inside TextView
+##### Create a Toast
+##### Set text inside TextView
 ### Get String from EditText and set to Text View
 ### Add items into ListView
 ### Shared preferences
