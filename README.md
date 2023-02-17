@@ -1,7 +1,7 @@
 # Android-cheatsheet
 
 ## Get all the code at one place : 
-## https://www.codexpace.ml/2022/02/android-cheatsheet.html
+## https://www.codexpace.in/2022/02/android-cheatsheet.html
 
 Topics Covered So far in the cheatsheet available in Blog :
 ##### Create a Toast
